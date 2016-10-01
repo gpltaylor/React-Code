@@ -1,9 +1,8 @@
 # React-Code
 We all know that JavaScript is going to be dropped next year. W3C are
 recommended that we use CSS for all business logic. We all know that JavaScript
-is too hard to lean, understand and write. I mean scope, what the hell is all
-that about! For that reason I have build React-Code. No longer do you need to
-learn programming, just lean React and we will make the code for you.
+is too hard to learn, understand and write. I mean scope, what the hell is all
+that about! For that reason, I have build React-Code. No longer do you need to learn to program, just learn React and we will make the code for you.
 
 Never again will you have to worry about transpiling Babel, ES15,16,17 stage 2.
 Code using Components and let React-Code do the work for you. Programming is too
@@ -27,7 +26,7 @@ the IQ of upper management are able to code!
 React-Code is the fastest growing Non-Programming language of all time!
 
 ### Creating Variables
-Want a new place to store that new question? Well tell the dev team to bugger
+Want a new place to store that new question? Well, tell the dev team to bugger
 off with their 14 day Scrum or what the hell that means!
 
 
@@ -64,11 +63,11 @@ Gets converted to the following random nonsense.
 ### Class are new and now old
 >You: "I want to see information about multiple customers and compare them".
 
->IT: "woow, that's not possible JS doesn't have classes"
+>IT: "wow, that's not possible JS doesn't have classes"
 
 >You: "WTFFFF did you not say last week that some ESJXS151617.2 has classes"
 
->IT: "Yeah, we don't want them any more"
+>IT: "Yeah, we don't want them anymore"
 
 ```
 <Class name="Person">
@@ -117,9 +116,9 @@ var fullName = (firstName, surname) => {
 
 >You: "WTFF does that matter"
 
->IT: "We can't duplicate code, its too complicated and it will break"
+>IT: "We can't duplicate code, it's too complicated and it will break"
 
->You: "I will break your scull if you don't bugger off and get it done"
+>You: "I will break your skull if you don't bugger off and get it done"
 
 ```
 <Concat delimiter = ' ' name='fullName'>
